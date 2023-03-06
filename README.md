@@ -5,7 +5,6 @@
 Users should be able to:
 - [x] react-router-dom
 - [x] react-toastify
-- [x] styled-components
 
 ## ⚙️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲
 *   ReactJs
